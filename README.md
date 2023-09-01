@@ -2,7 +2,7 @@
 This NLP project involves use of Flask to interact with html pages and render sentiment analysis for the text input on the html page
 Steps-
 1. The master folder contains
-   a. templates (Files- Index.html, analyze.html)
+   a. templates (Files- Index.html, result.html)
    b. static (Files-style.css)
    c. flask_NLP.ipynb
    d. comments.csv
